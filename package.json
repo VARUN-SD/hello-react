@@ -1,0 +1,37 @@
+{
+  "name": "hello-react",
+  "version": "1.0.0",
+  "description": "This is hello react",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VARUN-SD/hello-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Dara VARUN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VARUN-SD/hello-react/issues"
+  },
+  "homepage": "https://github.com/VARUN-SD/hello-react#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-icons": "^5.7.0",
+    "react-router": "^7.18.3",
+    "tailwindcss": "^4.3.3"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
